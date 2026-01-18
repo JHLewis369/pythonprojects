@@ -1,0 +1,5 @@
+.vs/
+*.user
+*.suo
+*.pyc
+__pycache__/
